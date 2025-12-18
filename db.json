@@ -1,6 +1,22 @@
 {
   "users": [
     {
+      "id": "user_0",
+      "username": "giomar.oliva",
+      "email": "a18103421@idat.pe",
+      "displayName": "Giomar Oliva",
+      "bio": "Usuario principal para pruebas.",
+      "profileImageUrl": "https://picsum.photos/200?user=giomar",
+      "followersCount": 0,
+      "followingCount": 0,
+      "postsCount": 0,
+      "isVerified": false,
+      "isPrivate": false,
+      "website": "",
+      "createdAt": 1696000000000,
+      "updatedAt": 1696000000000
+    },
+    {
       "id": "user_1",
       "username": "jane_doe",
       "email": "jane@example.com",
@@ -107,3 +123,4 @@
     }
   ]
 }
+
