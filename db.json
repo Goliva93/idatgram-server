@@ -3,8 +3,8 @@
     {
       "id": "current_user",
       "username": "mi_usuario",
-      "email": "yo@idat.com.pe",
-      "displayName": "Giomar Oliva",
+      "email": "yo@idatgram.com",
+      "displayName": "Mi Perfil",
       "bio": "Estudiante de desarrollo móvil 📱💻",
       "profileImageUrl": "https://picsum.photos/200/200?random=0",
       "followersCount": 25,
@@ -63,22 +63,6 @@
       "website": "sofialopez.fit",
       "createdAt": 1700000003000,
       "updatedAt": 1700000003000
-    },
-    {
-      "id": "user_4",
-      "username": "diego_ruiz",
-      "email": "diego@example.com",
-      "displayName": "Diego Ruiz",
-      "bio": "Viajero & aventurero 🌍⛰️",
-      "profileImageUrl": "https://picsum.photos/200/200?random=4",
-      "followersCount": 567,
-      "followingCount": 234,
-      "postsCount": 89,
-      "isVerified": false,
-      "isPrivate": false,
-      "website": "",
-      "createdAt": 1700000004000,
-      "updatedAt": 1700000004000
     }
   ],
   "posts": [
@@ -125,28 +109,6 @@
       "location": "Machu Picchu, Cusco",
       "createdAt": 1700000400000,
       "updatedAt": 1700000400000
-    },
-    {
-      "id": "post_5",
-      "userId": "user_1",
-      "caption": "Detalles que importan ✨ La fotografía macro nos revela un mundo invisible a simple vista #macro #photography #art",
-      "imageUrl": "https://picsum.photos/800/800?random=105",
-      "likesCount": 156,
-      "commentsCount": 8,
-      "location": "Estudio Fotográfico",
-      "createdAt": 1700000500000,
-      "updatedAt": 1700000500000
-    },
-    {
-      "id": "post_6",
-      "userId": "user_2",
-      "caption": "Brunch dominical 🥞🥓 Nada mejor que empezar el fin de semana con buena comida y mejor compañía #brunch #sunday #foodie",
-      "imageUrl": "https://picsum.photos/800/800?random=106",
-      "likesCount": 267,
-      "commentsCount": 19,
-      "location": "Café Central",
-      "createdAt": 1700000600000,
-      "updatedAt": 1700000600000
     }
   ],
   "comments": [
@@ -233,31 +195,7 @@
       "followerId": "user_1",
       "followingId": "current_user",
       "createdAt": 1700000008000
-    },
-    {
-      "followerId": "user_2",
-      "followingId": "current_user",
-      "createdAt": 1700000009000
-    },
-    {
-      "followerId": "user_1",
-      "followingId": "user_3",
-      "createdAt": 1700000010000
-    },
-    {
-      "followerId": "user_3",
-      "followingId": "user_1",
-      "createdAt": 1700000011000
-    },
-    {
-      "followerId": "user_2",
-      "followingId": "user_4",
-      "createdAt": 1700000012000
-    },
-    {
-      "followerId": "user_4",
-      "followingId": "user_2",
-      "createdAt": 1700000013000
     }
   ]
 }
+
